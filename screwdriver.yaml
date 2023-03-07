@@ -1,0 +1,5 @@
+jobs:
+  main:
+    image: rockylinux:8
+    steps:
+      - ls
